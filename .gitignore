@@ -1,0 +1,5 @@
+/pyvenv.cfg
+.idea/*
+.Include/*
+.Lib/*
+.Scripts/*
