@@ -1,5 +1,5 @@
 /pyvenv.cfg
 .idea/*
-.Include/*
-.Lib/*
-.Scripts/*
+Include/*
+Lib/*
+Scripts/*
