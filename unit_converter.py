@@ -6,12 +6,10 @@ while True:
     result = user_amount*kg_to_lb
     print(f"\t Thanks for your input. {user_amount} kgs equals {result} lbs")
 
-    choice = input("Convert something else for you, m'lord? (yes/no)")
+    choice = input("Convert something else for you, m'lord? (y/n)")
 
-    if choice != "yes":
+    if choice != "y":
+        print("Thank you m'lord. Safe travels!")
         break
-    #else:
-    #    print("Thank you m'lord. Safe travels!")
-    #else:
-    #    print("Afraid you need to be more specific...")
+
 
